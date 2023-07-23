@@ -1,4 +1,4 @@
-# CSCB07-final
+# venue booking app for android
 
 An app that allows users to join and schedule upcoming events at venues, built on Google's Material Deisgn 3.
 
